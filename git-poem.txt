@@ -1,3 +1,4 @@
+you should aim to organise your work with a neat history.
 
 Personally, I like to rebase first
 this replays my commits on top of previous work.
