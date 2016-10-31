@@ -1,3 +1,6 @@
+It's just a commit without a branch (or so I have learned).
+
+
 Now if you want to share your work you might just push and pray
 but to fetch and rebase is much cleaner, safer, way.
 
