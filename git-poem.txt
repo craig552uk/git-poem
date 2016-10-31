@@ -1,3 +1,4 @@
+this replays my commits on top of previous work.
 
 Then to make reading the history much easier and faster,
 I merge, with --no-ff, this branch into master.
