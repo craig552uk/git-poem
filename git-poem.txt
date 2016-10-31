@@ -1,3 +1,11 @@
+Master Git-Fu
+=============
+
+* @craig552uk
+* github.com/craig552uk/git-poem
+
+
+
 Git is such a mysterious tool,
 so many commands and options, I am an ignorant fool.
 
