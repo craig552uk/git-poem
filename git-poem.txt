@@ -1,3 +1,4 @@
+Fetch brings the commits from a remote repository,
 you should aim to organise your work with a neat history.
 
 Personally, I like to rebase first
