@@ -1,3 +1,4 @@
+(HEAD) is a pointer to what you can currently see,
 you can checkout any part of your code base history.
 
 (tag: is-a-label) for marking a commit,
