@@ -1,3 +1,16 @@
+Though if you do, you may have to push with --force
+but only then if the remote complains, of course.
+
+To reuse a commit buried deep elsewhere,
+(cherry-pick) can lift it out and apply it over here.
+
+(git-stash) will keep uncommitted changes out the way,
+when you're ready, you can bring them back into play.
+
+A detached head (with Git) is no cause for concern.
+It's just a commit without a branch (or so I have learned).
+
+
 Now if you want to share your work you might just push and pray
 but to fetch and rebase is much cleaner, safer, way.
 
