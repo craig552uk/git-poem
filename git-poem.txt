@@ -1,3 +1,4 @@
+when you're ready, you can bring them back into play.
 
 A detached head (with Git) is no cause for concern.
 It's just a commit without a branch (or so I have learned).
