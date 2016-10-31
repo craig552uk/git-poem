@@ -1,3 +1,6 @@
+I merge, with --no-ff, this branch into master.
+
+
 I have much more to learn before I become a Git Master,
 But I'm confident I have the knowledge to avert repo disaster.
 
