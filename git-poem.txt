@@ -1,3 +1,16 @@
+Now if you want to share your work you might just push and pray
+but to fetch and rebase is much cleaner, safer, way.
+
+Fetch brings the commits from a remote repository,
+you should aim to organise your work with a neat history.
+
+Personally, I like to rebase first
+this replays my commits on top of previous work.
+
+Then to make reading the history much easier and faster,
+I merge, with --no-ff, this branch into master.
+
+
 I have much more to learn before I become a Git Master,
 But I'm confident I have the knowledge to avert repo disaster.
 
