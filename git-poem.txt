@@ -1,3 +1,4 @@
+But I'm confident I have the knowledge to avert repo disaster.
 
 If you struggle with Git, if you're sometime unsure what to do,
 I hope these silly rhymes help you on your journey to Git Fu.
