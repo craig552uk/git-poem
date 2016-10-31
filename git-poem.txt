@@ -1,3 +1,4 @@
+Changes in your code are added to the stage.
 This is not yet a commit, but where a commit is made.
 
 Once your changes are staged, and you are happy with what you wrote,
