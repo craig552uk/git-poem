@@ -1,3 +1,16 @@
+I learn that a commit is a diff, with a little meta-data
+it has a unique hash, so you can check it out later.
+
+Commits have parents and children, which form a great tree
+they branch apart and merge together. This is a repository.
+
+Changes in your code are added to the stage.
+This is not yet a commit, but where a commit is made.
+
+Once your changes are staged, and you are happy with what you wrote,
+they can be committed as one. Be sure to write a useful note.
+
+
 (HEAD) is a pointer to what you can currently see,
 you can checkout any part of your code base history.
 
