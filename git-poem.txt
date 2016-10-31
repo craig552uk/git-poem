@@ -1,3 +1,4 @@
+they branch apart and merge together. This is a repository.
 
 Changes in your code are added to the stage.
 This is not yet a commit, but where a commit is made.
