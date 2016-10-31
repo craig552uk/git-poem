@@ -1,3 +1,4 @@
+This is not yet a commit, but where a commit is made.
 
 Once your changes are staged, and you are happy with what you wrote,
 they can be committed as one. Be sure to write a useful note.
