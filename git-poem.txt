@@ -1,3 +1,4 @@
+I learn that a commit is a diff, with a little meta-data
 it has a unique hash, so you can check it out later.
 
 Commits have parents and children, which form a great tree
