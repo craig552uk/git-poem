@@ -1,3 +1,4 @@
+A detached head (with Git) is no cause for concern.
 It's just a commit without a branch (or so I have learned).
 
 
