@@ -1,3 +1,6 @@
+I will learn the ways of the repo. I will master Git-Fu!
+
+
 I learn that a commit is a diff, with a little meta-data
 it has a unique hash, so you can check it out later.
 
