@@ -1,3 +1,16 @@
+(HEAD) is a pointer to what you can currently see,
+you can checkout any part of your code base history.
+
+(tag: is-a-label) for marking a commit,
+perhaps use them for releases, so you can quickly find it.
+
+(git-branch) creates a fork in the commit tree
+Use it to work on ideas, safe in your repository
+
+And remember that a branch (like a tag) is just a label on a commit,
+you can, if you want, very easily move it.
+
+
 Though if you do, you may have to push with --force
 but only then if the remote complains, of course.
 
