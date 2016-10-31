@@ -1,3 +1,4 @@
+Use it to work on ideas, safe in your repository
 
 And remember that a branch (like a tag) is just a label on a commit,
 you can, if you want, very easily move it.
