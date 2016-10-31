@@ -1,3 +1,4 @@
+perhaps use them for releases, so you can quickly find it.
 
 (git-branch) creates a fork in the commit tree
 Use it to work on ideas, safe in your repository
