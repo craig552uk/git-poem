@@ -1,3 +1,4 @@
+Though if you do, you may have to push with --force
 but only then if the remote complains, of course.
 
 To reuse a commit buried deep elsewhere,
