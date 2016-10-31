@@ -1,3 +1,4 @@
+Now if you want to share your work you might just push and pray
 but to fetch and rebase is much cleaner, safer, way.
 
 Fetch brings the commits from a remote repository,
